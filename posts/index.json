@@ -1,5 +1,14 @@
 [
   {
+    "slug": "introduction-to-exposing-ollama-on-local-apps-and-websites",
+    "noteId": "note-1781429339831",
+    "title": "Introduction to Exposing Ollama on Local Apps and Websites",
+    "description": "Exposing Ollama on local apps and websites allows developers to leverage AI capabilities. A step-by-step guide covers Windows, macOS, and Linux setup.",
+    "tags": [],
+    "publishedAt": 1795699977303,
+    "updatedAt": 1795699977303
+  },
+  {
     "slug": "mastering-regression-in-machine-learning-a-comprehensive-technical-guide",
     "noteId": "note-1781058597656",
     "title": "Mastering Regression in Machine Learning: A Comprehensive Technical Guide",

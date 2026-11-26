@@ -1,5 +1,20 @@
 [
   {
+    "slug": "generative-ai-in-software-engineering",
+    "noteId": "note-1783495112214",
+    "title": "Generative AI in Software Engineering",
+    "description": "Generative AI transforms software engineering with automated coding and testing.",
+    "tags": [
+      "generative-ai",
+      "software-engineering",
+      "mcps",
+      "apis",
+      "ai-generated"
+    ],
+    "publishedAt": 1795699985570,
+    "updatedAt": 1795699985570
+  },
+  {
     "slug": "introduction-to-exposing-ollama-on-local-apps-and-websites",
     "noteId": "note-1781429339831",
     "title": "Introduction to Exposing Ollama on Local Apps and Websites",

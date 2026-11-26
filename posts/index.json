@@ -1,5 +1,16 @@
 [
   {
+    "slug": "understanding-supervised-learning-paradigms",
+    "noteId": "note-1780308852539",
+    "title": "Understanding Supervised Learning Paradigms",
+    "description": "Supervised machine learning represents a foundational paradigm in AI, characterized by training models on labeled datasets. Unlike unsupervised methods,…",
+    "tags": [
+      "draft"
+    ],
+    "publishedAt": 1795699941714,
+    "updatedAt": 1795699941714
+  },
+  {
     "slug": "using-ollama-to-build-local-mcp",
     "noteId": "note-1780215684747",
     "title": "Using Ollama to Build Local MCP",

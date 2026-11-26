@@ -1,5 +1,21 @@
 [
   {
+    "slug": "architecture-options",
+    "noteId": "note-1784707377411",
+    "title": "Architecture Options",
+    "description": "AWS offers three primary hosting models for REST APIs, each with distinct tradeoffs in development speed, operational overhead, cost structure, and…",
+    "tags": [
+      "aws",
+      "architecture",
+      "serverless",
+      "containers",
+      "ec2",
+      "ai-generated"
+    ],
+    "publishedAt": 1795700019837,
+    "updatedAt": 1795700019837
+  },
+  {
     "slug": "deep-dive-into-mcps-and-api-evolution",
     "noteId": "note-1783495133679",
     "title": "Deep Dive into MCPs and API Evolution",

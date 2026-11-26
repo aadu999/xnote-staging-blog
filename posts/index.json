@@ -1,5 +1,21 @@
 [
   {
+    "slug": "deep-dive-into-mcps-and-api-evolution",
+    "noteId": "note-1783495133679",
+    "title": "Deep Dive into MCPs and API Evolution",
+    "description": "MCPs are poised to revolutionize the way APIs are designed, developed, and deployed. With the power of model based systems, MCPs can automatically…",
+    "tags": [
+      "mcp",
+      "api",
+      "evolution",
+      "ai-generated"
+    ],
+    "publishedAt": 1795700011423,
+    "updatedAt": 1795700011423,
+    "parentSlug": "generative-ai-in-software-engineering",
+    "order": 2
+  },
+  {
     "slug": "generative-ai-and-mcps-in-software-engineering",
     "noteId": "note-1783495130551",
     "title": "Generative AI and MCPs in Software Engineering",

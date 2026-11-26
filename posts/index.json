@@ -1,5 +1,21 @@
 [
   {
+    "slug": "impact-of-generative-ai-on-api",
+    "noteId": "note-1783495117869",
+    "title": "Impact of Generative AI on API",
+    "description": "APIs have become the backbone of software engineering, enabling different systems to communicate with each other. However, with the advent of generative…",
+    "tags": [
+      "api",
+      "generative-ai",
+      "software-engineering",
+      "ai-generated"
+    ],
+    "publishedAt": 1795699993302,
+    "updatedAt": 1795699993302,
+    "parentSlug": "generative-ai-in-software-engineering",
+    "order": 0
+  },
+  {
     "slug": "generative-ai-in-software-engineering",
     "noteId": "note-1783495112214",
     "title": "Generative AI in Software Engineering",

@@ -1,5 +1,16 @@
 [
   {
+    "slug": "mastering-regression-in-machine-learning-a-comprehensive-technical-guide",
+    "noteId": "note-1781058597656",
+    "title": "Mastering Regression in Machine Learning: A Comprehensive Technical Guide",
+    "description": "Regression is one of the most fundamental and widely used types of supervised learning in machine learning. While classification tasks focus on assigning labels to data points (e.g., \"Spam\" vs. \"Not Spam\"), regression focuses on predicting ",
+    "tags": [
+      "ml"
+    ],
+    "publishedAt": 1795699969085,
+    "updatedAt": 1795699969085
+  },
+  {
     "slug": "how-github-watch-works",
     "noteId": "note-1780323482964",
     "title": "How github watch works",

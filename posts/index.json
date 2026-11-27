@@ -108,6 +108,14 @@
     "updatedAt": 1795699960120
   },
   {
+    "slug": "the-definitive-guide-to-supervised-machine-learningmy-personal",
+    "title": "The Definitive Guide to Supervised Machine LearningMy personal",
+    "description": "Explore supervised machine learning fundamentals. Master classification and regression techniques, understand the bias-variance tradeoff, and select the best model from algorithms like Random Forests and Neural Networks. Learn evaluation me",
+    "publishedAt": 1795699950509,
+    "noteId": "note-1780310266059",
+    "updatedAt": 1795699950509
+  },
+  {
     "slug": "understanding-supervised-learning-paradigms",
     "noteId": "note-1780308852539",
     "title": "Understanding Supervised Learning Paradigms",
